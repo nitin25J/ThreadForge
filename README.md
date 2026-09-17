@@ -92,9 +92,9 @@ Takes a file path and checks whether the specified file exists before processing
 
 Executes an SQL query using JDBC and displays the returned results when available.
 
-## Project Structure
+##  Project Structure
 
-text
+```text
 ThreadForge/
 ├── src/
 │   ├── main/
@@ -110,15 +110,13 @@ ThreadForge/
 │   │               ├── service/
 │   │               ├── util/
 │   │               └── Main.java
-│   │
 │   └── test/
 │       └── java/
-│
 ├── pom.xml
 ├── .gitignore
-|── ThreadForge Project Report
+├── ThreadForge Project Report
 └── README.md
-
+```
 
 ## How to Run the Project
 
