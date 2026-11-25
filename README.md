@@ -1,4 +1,4 @@
-# ThreadForge
+# ThreadForge.
 
 ## About the Project
 
